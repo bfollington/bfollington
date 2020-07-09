@@ -1,4 +1,4 @@
-### 😈
+### 🌵
 
 I'm a UI Engineer, Designer and Independent Game Developer
 
