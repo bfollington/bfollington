@@ -1,6 +1,6 @@
-### Hi there 👋
+### 😈
 
-UI Engineer, Designer and Independent Game Developer
+I'm a UI Engineer, Designer and Independent Game Developer
 
 I'm a 27-year-old living in Brisbane, Australia. I like making simple, elegant, useful and fun things using computers.
 
