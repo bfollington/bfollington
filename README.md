@@ -1,8 +1,18 @@
-### 🌵
+### 🍵
 
-I'm a UI Engineer, Designer and Independent Game Developer
+Hi, I'm Ben.
 
-I'm a 27-year-old living in Brisbane, Australia. I like making simple, elegant, useful and fun things using computers.
+👤 `->` `cyber hippie`, `game dev`, `ui wizard`<br/>
+💻 `->` `fp`, `react`, `typescript`, `unity3d`, `f#`<br/>
+🌏 `->` `living in Brisbane, Australia`
+
+🌐 `->` [`@twopmstudio`](https://twitter.com/@twopmstudio) & [`bf.wtf`](https://bf.wtf) & [`work history`](https://cv.bf.wtf) & [`sountracktomy.life`](http://soundtracktomy.life) 
+
+> I like making fun, elegant & useful things using computers.
+
+✌️ he/him 
+
+
 
 <!--
 **bfollington/bfollington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
