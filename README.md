@@ -2,7 +2,7 @@
 
 Hi, I'm Ben.
 
-👤 `->` `cyber hippie`, `game dev`, `ui wizard`<br/>
+👤 `->` `game dev`, `ui wizard`, `cyber hippie`<br/>
 💻 `->` `fp`, `react`, `typescript`, `unity3d`, `f#`, `clojure`<br/>
 🌏 `->` `living in Brisbane, Australia`
 
