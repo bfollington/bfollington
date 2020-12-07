@@ -6,7 +6,7 @@ Hi, I'm Ben.
 💻 `->` `fp`, `react`, `typescript`, `unity3d`, `f#`, `clojure`<br/>
 🌏 `->` `living in Brisbane, Australia`
 
-🌐 `->` [`@twopmstudio`](https://twitter.com/@twopmstudio) & [`bf.wtf`](https://bf.wtf) & [`work history`](https://cv.bf.wtf) & [`sountracktomy.life`](http://soundtracktomy.life) 
+🌐 `->` [`@twopmstudio`](https://twitter.com/@twopmstudio) & [`bf.wtf`](https://bf.wtf) & [`work history`](https://cv.bf.wtf) & [`soundtracktomy.life`](http://soundtracktomy.life) 
 
 > I like making fun, elegant & useful things using computers.
 
