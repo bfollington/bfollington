@@ -1,12 +1,12 @@
 ### 🍵
 
-Hi, I'm Ben.
+hi
 
-👤&nbsp; `game dev`, `ui`, `interactivity`<br/>
-💻&nbsp; `fp`, `react`, `typescript`, `unity3d`, `godot`, `f#`, `clojure`<br/>
+👤&nbsp; `game dev`, `ui`, `generative art`, `creative coding`<br/>
+💻&nbsp; `fp`, `clojure`, `react`, `typescript`, `unity3d`, `godot`, `f#`, <br/>
 🌏&nbsp; `living in Brisbane, Australia`
 
-🌐&nbsp; [`@twopmstudio`](https://twitter.com/@twopmstudio) & [`bf.wtf`](https://bf.wtf) & [`work history`](https://cv.bf.wtf) & [`soundtracktomy.life`](http://soundtracktomy.life) 
+🌐&nbsp; [`bf.wtf`](https://bf.wtf) & [`work history`](https://cv.bf.wtf) & [`@twopmstudio`](https://twitter.com/@twopmstudio)
 
 > I make powerful, intuitive and joyful software, sitting at the intersection of art, technology, psychology, philosophy and human connection.
 
