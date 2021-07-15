@@ -1,6 +1,4 @@
-### 🍵
-
-hi
+hello
 
 👤&nbsp; `game dev`, `ui`, `generative art`, `creative coding`<br/>
 💻&nbsp; `fp`, `clojure`, `react`, `typescript`, `unity3d`, `godot`, `f#`, <br/>
