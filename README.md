@@ -4,7 +4,7 @@ hello
 💻&nbsp; `fp`, `clojure`, `react`, `typescript`, `unity3d`, `godot`, `f#`, <br/>
 🌏&nbsp; `living in Brisbane, Australia`
 
-🌐&nbsp; [`bf.wtf`](https://bf.wtf) & [`work history`](https://cv.bf.wtf) & [`@twopmstudio`](https://twitter.com/@twopmstudio)
+🌐&nbsp; [`bf.wtf`](https://bf.wtf) & [`work history`](https://cv.bf.wtf) & [`@twopmstudio`](https://twitter.com/@twopmstudio) & [`fundamental.sh`](https://fundamental.sh)
 
 > I make powerful, intuitive and joyful software, sitting at the intersection of art, technology, psychology, philosophy and human connection.
 
