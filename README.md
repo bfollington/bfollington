@@ -1,14 +1,18 @@
-hello
+Hi, I'm Ben (he/him), a digital artist, game developer, designer and programmer. 
 
-👤&nbsp; `game dev`, `ui`, `generative art`, `creative coding`<br/>
+I make powerful, intuitive and joyful software using the tools I love.
+
+🌐&nbsp; [`bf.wtf`](https://bf.wtf)
+[`fundamental.sh`](https://fundamental.sh)
+[`cv`](https://cv.bf.wtf)
+[`@twopmstudio`](https://twitter.com/@twopmstudio)
+
+I will be open for freelance and contract work in mid-2022.
+
+I have extensive experience with UI/UX engineering, design systems, gamedev, software architecture, API design, interactive visuals (webgl & canvas) and mentoring enthusiastic developers.
+
 💻&nbsp; `fp`, `clojure`, `react`, `typescript`, `unity3d`, `godot`, `f#`, <br/>
-🌏&nbsp; `living in Brisbane, Australia`
-
-🌐&nbsp; [`bf.wtf`](https://bf.wtf) & [`work history`](https://cv.bf.wtf) & [`@twopmstudio`](https://twitter.com/@twopmstudio) & [`fundamental.sh`](https://fundamental.sh)
-
-> I make powerful, intuitive and joyful software, sitting at the intersection of art, technology, psychology, philosophy and human connection.
-
-✌️ &nbsp;he/him 
+🌏&nbsp; Brisbane, Australia
 
 
 
