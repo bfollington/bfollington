@@ -1,10 +1,6 @@
-Hi, I'm Ben (he/him), a digital artist, game developer, designer and programmer. 
+Hi, I'm Ben Follington. I'm a multi-disciplinary designer, programmer and artist living in Brisbane, Australia. I make, think and write about cool user interfaces, generative art, video games and whatever else interests me.
 
-I make powerful, intuitive and joyful software using the tools I love.
-
-Hi, I'm Ben Follington. I'm a multi-disciplinary designer, programmer and artist living in Brisbane, Australia. I make, think and write about cool user interfaces, video games and whatever else interests me.
-
-My work combines abstract forms, elegant user-focused design and technical sophistication. I am endlessly fascinated by human computer interaction and what it can achieve. I strive for straightforward code, delightful UX, clear thinking, rapid progress and microscopic attention to detail.
+My work combines abstract form, elegant user-focused design and technical sophistication. I am endlessly fascinated by human computer interaction how it can change the world for the better. I strive for straightforward code, delightful UX, clear thinking, rapid progress and microscopic attention to detail.
 
 🌐&nbsp; [`bf.wtf`](https://bf.wtf)
 [`cv`](https://cv.bf.wtf)
