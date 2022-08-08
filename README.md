@@ -2,16 +2,21 @@ Hi, I'm Ben (he/him), a digital artist, game developer, designer and programmer.
 
 I make powerful, intuitive and joyful software using the tools I love.
 
+Hi, I'm Ben Follington. I'm a multi-disciplinary designer, programmer and artist living in Brisbane, Australia. I make, think and write about cool user interfaces, video games and whatever else interests me.
+
+My work combines abstract forms, elegant user-focused design and technical sophistication. I am endlessly fascinated by human computer interaction and what it can achieve. I strive for straightforward code, delightful UX, clear thinking, rapid progress and microscopic attention to detail.
+
 🌐&nbsp; [`bf.wtf`](https://bf.wtf)
-[`fundamental.sh`](https://fundamental.sh)
 [`cv`](https://cv.bf.wtf)
+[`shimmeringvoid`](https://shimmeringvoid.substack.com/)
+[`fundamental.sh`](https://fundamental.sh)
 [`@twopmstudio`](https://twitter.com/@twopmstudio)
 
-I will be open for freelance and contract work in mid-2022.
+I will be open for freelance and contract work in 2023.
 
 I have extensive experience with UI/UX engineering, design systems, gamedev, software architecture, API design, interactive visuals (webgl & canvas) and mentoring enthusiastic developers.
 
-💻&nbsp; `fp`, `clojure`, `react`, `typescript`, `unity3d`, `godot`, `f#`, <br/>
+💻&nbsp; `react`, `typescript`, `webgl`, `fp`, `clojure`, `unity3d`, `godot`, `p5js`, <br/>
 🌏&nbsp; Brisbane, Australia
 
 
