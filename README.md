@@ -9,4 +9,4 @@ I'm currently working with https://common.tools as a Researcher and https://twop
 
 🌏&nbsp; Brisbane, Australia
 
-`html`, `css`, `webgl`, `react`, `typescript`, `unity3d`, `swift`, `fp`, `clojure`, `svelte`, `godot`, `rust`, `p5js`, `touchdesigner` <br/>
+`html`, `css`, `webgl`, `react`, `typescript`, `unity3d`, `clojure`, `rust`, `godot` and whatever else it takes <br/>
