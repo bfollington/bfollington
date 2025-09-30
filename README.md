@@ -1,6 +1,8 @@
-I am an designer, engineer and artist exploring human-computer interaction. I specialize in turning the imaginary into the real using generative techniques, experience design and graphics/interaction programming.
+I am an designer, engineer, game dev and artist exploring human-computer interaction. I specialize in turning the imaginary into the real. 
 
-I'm currently working with https://common.tools as a Researcher and https://twopm.studio as Technical Director on [WizardChess](https://store.steampowered.com/app/1274210/WizardChess/).
+I use my extensive experience in procedural generation, audiovisual design, product design and HCI research to help people connect the dots.
+
+I'm currently working with https://common.tools as a Founding Engineer and https://twopm.studio as Technical Director on [WizardChess](https://store.steampowered.com/app/1274210/WizardChess/).
 
 🌐&nbsp; [`bf.wtf`](https://bf.wtf)
 [`cv`](https://cv.bf.wtf)
